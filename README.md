@@ -1,4 +1,4 @@
-# Botium Toy's Project
+# Botium Toy's Security Audit
 
 This is a mock scenario  made for the purpose of demonstrating knowledge and understanding of security controls and compliance. 
 
